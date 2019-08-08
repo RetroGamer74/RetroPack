@@ -71,7 +71,7 @@ Pulsa sobre el icono de hekate.
 
 Aquí está el link de descarga, recuerda escoger tu versión y tamaño de SD.
 
-Note: De todas formas la versión roja ahora mismo solo dispone de la imagen de 128gb (estoy trabajando en los otros tamaños).
+Note: De todas formas la versión roja ahora mismo solo dispone de la imagen de 128gb y 64gb (estoy trabajando en los otros tamaños).
 
 [RetroPack Images](https://mega.nz/#F!TvYyGS5D!4CRLomt3FVgD2c4UvcB_fQ)
 
