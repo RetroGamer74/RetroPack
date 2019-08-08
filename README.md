@@ -19,6 +19,12 @@ RetroPack Red is ready to use with EmuMMC and Android. Partition for EmuMMC is a
 
 ### Steps for red flavours
 
+Flash the image into your SD card using EtcherBalena.
+
+Here is the link: [Etcher-Balena](https://www.balena.io/etcher/)
+
+Select image file -> Select your microSD destination -> Flash
+
 1 .- The first time you boot up RetroPack, which in fact will boot using RetroReloaded, you will see there is no emunand button close to Atmosphere icon. This is because emummc must be created from your own switch.
 
 ![alt text](rr_boot_v2_noemu.png)
@@ -58,6 +64,12 @@ Note: By the way just RetroPack Red for 128 Gb is available. I'm currently worki
 RetroPack Blue is ready use for RetroReloaded and Android only. It doesn't provide a partition ready to install emuMMC. So if you want RetroReloaded + emuMMC + Android, then you need RetroPack Red.
 
 ### Steps for blue flavours
+
+Flash the image into your SD card using EtcherBalena.
+
+Here is the link: [Etcher-Balena](https://www.balena.io/etcher/)
+
+Select image file -> Select your microSD destination -> Flash
 
 1.- Download your image according to your microSD size and that's all.
 
