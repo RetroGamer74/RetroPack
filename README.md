@@ -5,6 +5,18 @@ RetroPack - Image with RetroReloaded + Emunand + Android
 
 Simple. Instead having 2 SD cards, one for switch, and one for android, RetroPack brings you both solutions in one SD.
 
+# Partitions Size
+
+Some of you want to know how the size is shared between partitions. So here is the layout I'm using:
+
+emuMMC requires around 30 GBytes.
+Android requires around 20 Gbytes.
+The rest is used for the common FAT32 partition we use for switch, to store homebrew, retroreloaded, atmosphere, games and so on.
+
+So this is basically the layout. If you own 64 GBytes sd Card, you can guess in this case Switch partition will be around 14 Gbytes, in case of 128 GBytes, will be around 78 GBytes, and for 256 GBytes, it should be around 206 Gigabytes.
+
+Always the biggest partition is the FAT32 used for switch because when using only one SD card Android will be able to get access to this big partition, so we don't need to make a bigger userdata partition for Android.
+
 # Installation
 
 Because of the heavy work to prepare the partitions, and the mandatory use of Linux to do it, I thought the best way would be to pack the result in an image ready for download.
