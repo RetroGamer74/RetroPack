@@ -15,7 +15,7 @@ There will be 2 flavors of RetroPack and several options depending of what you w
 
 ## Flavour Red ( RetroPack Red )
 
-RetroPack Red is ready to use with EmuMMC and Android. Partitio for EmuMMC is already reserved to be installed.
+RetroPack Red is ready to use with EmuMMC and Android. Partition for EmuMMC is already reserved to be installed.
 
 ### Steps for red flavours
 
@@ -49,4 +49,35 @@ To do this, you have to touch Hekate option.
 
 Here is the link to all the RetroPack packages. Remember to select your Flavour and Size for your microSD.
 
+Note: By the way just RetroPack Red for 128 Gb is available. I'm currently working creating the other sizes.
+
 [RetroPack Images](https://mega.nz/#F!TvYyGS5D!4CRLomt3FVgD2c4UvcB_fQ)
+
+## Flavour Blue ( RetroPack Blue )
+
+RetroPack Blue is ready use for RetroReloaded and Android only. It doesn't provide a partition ready to install emuMMC. So if you want RetroReloaded + emuMMC + Android, then you need RetroPack Red.
+
+### Steps for blue flavours
+
+1.- Download your image according to your microSD size and that's all.
+
+![alt text](rr_boot_v2_noemu.png)
+
+Remember, by the way, you will find the Android launcher in Hekate => Launch option.
+
+2.- So, from the first screen of RetroPack, which is RetroReloaded interface, touch Hekate.
+
+![alt text](hekate1.png)
+
+3.- Once in Hekate touch Launch option.
+
+4.- At the right side is the icon for SwitchRoot Android.
+
+#### Your download
+
+Here is the link to all the RetroPack packages. Remember to select your Flavour and Size for your microSD.
+
+Note: By the way just RetroPack Red for 128 Gb is available. I'm currently working creating the other sizes.
+
+[RetroPack Images](https://mega.nz/#F!TvYyGS5D!4CRLomt3FVgD2c4UvcB_fQ)
+
