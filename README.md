@@ -27,11 +27,11 @@ To do this, you have to touch Hekate option.
 
 2.- Once in Hekate, touch emuMMC option.
 
-![alt text](hekate1.jpg)
+![alt text](hekate1.png)
 
 3.- On the right side, touch, Create emuMMC
 
-![alt text](hekate2.jpg)
+![alt text](hekate2.png)
 
 4.- Now select SD Partition button.
 
@@ -44,3 +44,9 @@ To do this, you have to touch Hekate option.
 7.- Once on RetroReloaded you will see this time emunand button.
 
 8.- For booting up Android, just touch Hekate button, and in the Launch option, select in the right side SwitchRoot Android.
+
+#### Your download
+
+Here is the link to all the RetroPack packages. Remember to select your Flavour and Size for your microSD.
+
+[RetroPack Images](https://mega.nz/#F!TvYyGS5D!4CRLomt3FVgD2c4UvcB_fQ)
