@@ -13,6 +13,9 @@ And it is like that.
 
 There will be 2 flavors of RetroPack and several options depending of what you want and the size of your microSD card.
 
+For booting the final SD, copy the payload.bin existing in the HOS_DATA partition and copy it into your PC, and use TegraRCMGUI. Remember!! Do not remove the payload.bin from the SD.
+For people using Dongle, just boot with your dongle referencing the payload.bin existing in the root of the SD.
+
 ## Flavour Red ( RetroPack Red )
 
 RetroPack Red is ready to use with EmuMMC and Android. Partition for EmuMMC is already reserved to be installed.
