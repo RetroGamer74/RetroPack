@@ -1,6 +1,6 @@
 # RetroPack
 
-(Para leer esta información en Español pulsa [aquí](readme_es.md)
+(Para leer esta información en Español pulsa [aquí](readme_es.md) )
 
 RetroPack - Image with RetroReloaded + Emunand + Android
 
