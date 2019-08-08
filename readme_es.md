@@ -105,7 +105,7 @@ Recuerda, Para lanzar android debes de ir a Hekate => Launch option.
 
 Aquí está el link de descarga, recuerda escoger tu versión y tamaño de SD.
 
-Note: De todas formas la versión azul ahora mismo solo dispone de la imagen de 128gb (estoy trabajando en los otros tamaños).
+Note: De todas formas la versión azul ahora mismo solo dispone de la imagen de 64gb y 128gb (estoy trabajando en los otros tamaños).
 
 [RetroPack Images](https://mega.nz/#F!TvYyGS5D!4CRLomt3FVgD2c4UvcB_fQ)
 
