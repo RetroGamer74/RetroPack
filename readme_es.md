@@ -41,7 +41,7 @@ Aquí está el link: [Etcher-Balena](https://www.balena.io/etcher/)
 
 Select image file -> Select your microSD destination -> Flash
 
-1 .- El el primer booteo iniciará RetroReloaded y verás que el botón de al lado del icono de atmosphere está desactivado. Esto es porque tú EmuMMC todavía no ha sido creada.
+1 .- En el primer arranque iniciará RetroReloaded y verás que el botón de al lado del icono de atmosphere está desactivado. Esto es porque tú EmuMMC todavía no ha sido creada.
 
 ![alt text](rr_boot_v2_noemu.png)
 
