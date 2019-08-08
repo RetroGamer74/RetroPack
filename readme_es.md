@@ -63,7 +63,7 @@ Pulsa sobre el icono de hekate.
 
 ![alt text](rr_boot_v2.jpg)
 
-7.- Ahora ya podrás ver el botón de EmuMMC.
+7.- Ahora ya podrás ver el botón de emunand.
 
 8.- Para iniciar android solo selecciona hekate y pulsa el botón de “launch options” y verás un botón para iniciar Switch-root Android.
 
