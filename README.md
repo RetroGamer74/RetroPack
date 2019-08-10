@@ -73,7 +73,7 @@ To do this, you have to touch Hekate option.
 
 Here is the link to all the RetroPack packages. Remember to select your Flavour and Size for your microSD.
 
-Note: By the way just RetroPack Red for 64Gb and 128 Gb is available. I'm currently working creating the other sizes.
+Note: By the way just RetroPack Red for 64Gb, 128, 256 Gb is available. If anyone needs different sizes you can do it yourself by following [my tutorial in youtube](https://www.youtube.com/watch?v=Ovm9HHtXesc). 
 
 [RetroPack Images](https://mega.nz/#F!TvYyGS5D!4CRLomt3FVgD2c4UvcB_fQ)
 
@@ -107,7 +107,7 @@ Remember, by the way, you will find the Android launcher in Hekate => Launch opt
 
 Here is the link to all the RetroPack packages. Remember to select your Flavour and Size for your microSD.
 
-Note: By the way just RetroPack Blue for 64 Gb and 128 Gb is available. I'm currently working creating the other sizes.
+Note: By the way just RetroPack Red for 64Gb, 128, 256 Gb is available. If anyone needs different sizes you can do it yourself by following [my tutorial in youtube](https://www.youtube.com/watch?v=Ovm9HHtXesc). 
 
 [RetroPack Images](https://mega.nz/#F!TvYyGS5D!4CRLomt3FVgD2c4UvcB_fQ)
 
