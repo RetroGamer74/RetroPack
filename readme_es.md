@@ -71,7 +71,7 @@ Pulsa sobre el icono de hekate.
 
 Aquí está el link de descarga, recuerda escoger tu versión y tamaño de SD.
 
-Note: De todas formas la versión roja ahora mismo solo dispone de la imagen de 128gb y 64gb (estoy trabajando en los otros tamaños).
+Note: La versión roja ahora mismo dispone de la imagen de 256gb, 128gb y 64gb. Si alguien necesita tamaños adicionales puede seguir [mi tutorial en youtube de cómo se hace](https://www.youtube.com/watch?v=Ovm9HHtXesc). 
 
 [RetroPack Images](https://mega.nz/#F!TvYyGS5D!4CRLomt3FVgD2c4UvcB_fQ)
 
@@ -105,7 +105,7 @@ Recuerda, Para lanzar android debes de ir a Hekate => Launch option.
 
 Aquí está el link de descarga, recuerda escoger tu versión y tamaño de SD.
 
-Note: De todas formas la versión azul ahora mismo solo dispone de la imagen de 64gb y 128gb (estoy trabajando en los otros tamaños).
+Note: La versión azul ahora mismo dispone de la imagen de 64gb, 128gb y 256gb. Si alguien necesita tamaños adicionales puede seguir [mi tutorial en youtube de cómo se hace](https://www.youtube.com/watch?v=Ovm9HHtXesc). 
 
 [RetroPack Images](https://mega.nz/#F!TvYyGS5D!4CRLomt3FVgD2c4UvcB_fQ)
 
